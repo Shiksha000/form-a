@@ -1,0 +1,16 @@
+body {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   align-items: center;
+   background-color: lightgray;
+
+
+}
+
+form {
+   align-items: center;
+   font-size: x-large;
+}
+
+form .input {
+   height: 70px;
+}
